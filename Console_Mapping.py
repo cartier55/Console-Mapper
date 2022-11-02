@@ -11,8 +11,8 @@ from types import SimpleNamespace
 
 # url = "https://calo-new.cisco.com/#/tools/start_here"
 login = {
-    "username":"Carjames",
-    "password":"cJ24549bdedibdedi24549?"
+    "username":"",
+    "password":""
 }
 
 
